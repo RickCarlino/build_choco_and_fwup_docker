@@ -6,7 +6,7 @@ Reproduce build problems with chocolatey
 
 ```
 sudo docker build .
-sudo docker run --rm -i -t 67f4d6f403f2
+sudo docker run --rm -i -t 5ce486f4fe3e
 cd
 bash install.sh # sudo password is "admin"
 ```
